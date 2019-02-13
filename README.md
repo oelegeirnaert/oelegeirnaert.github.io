@@ -1,5 +1,9 @@
 ## Welcome to my GitHub Page
 
+Hello, I'm Oele Geirnaert and currently I'm helping @Reuterbal in my spare time with his photobooth written in Python.
+
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](http://buymeacoff.ee/oelegeirnaert)
+
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
